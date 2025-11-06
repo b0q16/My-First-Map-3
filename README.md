@@ -1,7 +1,7 @@
 # My Summer Adventure Map
-![alt text](img/My_Summer_Adventure_Map.png)
+![fff](img/My_Summer_Adventure_Map.png)
 ### DEMO
-![alt text](img/MY-MAP.gif)
+![fff](img/MY-MAP.gif)
 ## What i built
 ["My Summer Adventure" Map](https://b0q16.github.io/My-First-Map-3/) 
 
